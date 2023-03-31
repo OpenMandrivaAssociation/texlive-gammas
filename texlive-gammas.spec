@@ -1,6 +1,6 @@
 Name:		texlive-gammas
 Version:	56403
-Release:	1
+Release:	2
 Summary:	Template for the GAMM Archive for Students
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gammas
