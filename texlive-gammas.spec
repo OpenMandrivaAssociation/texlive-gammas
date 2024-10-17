@@ -3,7 +3,7 @@ Version:	56403
 Release:	2
 Summary:	Template for the GAMM Archive for Students
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gammas
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gammas
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gammas.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gammas.doc.r%{version}.tar.xz
